@@ -1,0 +1,110 @@
+.box-1 {
+    background: whitesmoke;
+    height: 90px;
+    margin: 0px;
+    border-bottom: black;
+    position: sticky;
+    margin-top: 10px;
+    }
+
+.box-2 {
+    background: lightgray;
+    margin-top: 0px;
+    height: 500px;
+    width: 100%;
+    padding: 0px;
+    position: relative;
+    margin-left: -7px;
+    margin-right: -50px;
+    }
+
+.box-3 {
+    background: white;
+    position: absolute;
+    margin: 20px 20px 0px 20px;
+    height: 100%;
+    width: 97%;
+    }
+
+.images {
+    margin-left: 200px;
+    margin-right: 200px;
+    }
+
+h1 {
+    background: #4aaaa5;
+    color: white;
+    width: 300px;
+    margin-top: -10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+h2 {
+    color: #4aaaa5;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+#image {
+    float: left;
+    margin-left: 25px;
+    }
+
+body {
+    margin: 0%;
+    padding: 0%;
+    }
+
+input {
+    width: 30%;
+    margin-left: 450px;
+    height: 30px;
+    margin-top: 0%;
+    }
+
+#center {
+    text-align: center;
+    margin-right: 380px;
+    }
+
+#comments {
+    width: 30%;
+    margin-left: 450px;
+    height: 150px;
+    margin-top: 0%;
+    }
+
+#button {
+    float: right;
+    margin-right: 20px;
+    }
+
+#comments:focus {
+    color: black;
+    background: lightgray;
+    }
+
+input:focus {
+    color: black;
+    background: lightgray;
+    }
+    
+button:hover {
+        background: #4aaaa5;
+        color: black;
+        }
+
+button:active {
+    background: black;
+    color: white;
+    }
+
+#about {
+    margin-left: 250px;
+    margin-right: 100px;
+    }
+
+footer {
+    background: grey;
+    height: 67px;
+    width: 100%;
+}
